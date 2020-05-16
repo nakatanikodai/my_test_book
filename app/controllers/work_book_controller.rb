@@ -1,0 +1,2 @@
+class WorkBookController < ApplicationController
+end

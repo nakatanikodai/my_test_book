@@ -1,0 +1,2 @@
+class SectionWorkBook < ApplicationRecord
+end
